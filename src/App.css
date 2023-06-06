@@ -3,6 +3,10 @@
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
+p{
+  margin: 0;
+  padding: 0;
+}
 .navbar{
   background-color:#FFE7FA;
 }
@@ -128,4 +132,31 @@
   text-align: center;
   margin: 0;
   
+}
+
+#ActivityImg1,#ActivityImg2{
+  width: 150px;
+}
+.ActivityPlayButton{
+  width: 100px;
+  height: 40px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #FFA0E9;
+}
+#ActivityProfileImg{
+  width: 40px;
+}
+.ActivitySection{
+  background-color:#FFE7FA;
+}
+
+.section1{
+  width: 600px;
+}
+#section2{
+  width: 600px;
+}
+#ArticleSection div{
+  width: 300px;
 }
