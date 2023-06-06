@@ -1,0 +1,131 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar{
+  background-color:#FFE7FA;
+}
+#nav-btn1,#nav-btn2{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: 0;
+  padding: 10px;
+  font-size: 15px;
+}
+#nav-btn1{
+  background-color: white;
+}
+#nav-btn2{
+  background-color: #FFA0E9;
+  color: white;
+}
+#LandingPage
+{
+  background-color:#FFE7FA ;
+}
+#LandingPage h1{
+  font-size: 50px
+}
+
+#LandingPageSection1{
+  width: 600px;
+}
+#LandingPageImg{
+  width: 500px;
+}
+#LandingPageBtn{
+  width: 150px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #FFA0E9;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
+
+#PartnerSection{
+  background-color: #FFE7FA;
+}
+
+.accordion-header button{
+  font-size: 20px;
+  font-weight: bold;
+
+}
+/* #ProvideSection2{
+   position: relative; 
+   right: 1px; 
+}  */
+#ProvideImg{
+  width: 700px;
+  margin-top: 200px;
+}
+#ProvideImg1{
+  width: 700px;
+  position: absolute;
+}
+#ProvideImg2{
+  width: 500px;
+  position: absolute;
+  top: 300px;
+}
+
+#carouselExample{
+  background-color: #FFE7FA;
+}
+.carousel-btn{
+  width: 50px;
+  height: 50px;
+  background-color: #FFA0E9;
+  border-radius: 20px;
+}
+
+#FooterSection1{
+  background-color:white;
+}
+
+#FooterBtn{
+  width: 250px;
+  height: 100px;
+  background-color: #FFA0E9;
+  color: white;
+  border: 0;
+  font-size: 20px;
+  border-radius: 50px;
+}
+#FooterDesc{
+  width: 600px;
+}
+
+#MainFooter{
+  /* background-color: #232F3E; */
+  background-image: url("./FooterImg1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+  /* margin-top: 250px; */
+}
+#MainFooter a{
+  color: white;
+  text-decoration: none;
+}
+#MainFooter a:hover{
+  text-decoration: underline;
+}
+#FooterImg2{
+  width: 500px;
+  position: absolute;
+  top: -350px;
+  right: 0px;
+}
+
+.copyright{
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin: 0;
+  
+}
